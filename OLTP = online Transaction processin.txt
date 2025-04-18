@@ -1,0 +1,6 @@
+OLTP = online Transaction processing
+OLAP = online analytical processing
+ODS = operational data store
+
+Staging area/Stage DB
+   mm,,,kk ik   ][;ll,                                                                      oce459-k  k] ,;
